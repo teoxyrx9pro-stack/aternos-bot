@@ -3,7 +3,7 @@ const mineflayer = require('mineflayer');
 function createBot() {
   const bot = mineflayer.createBot({
     host: 'MCSharkSMP.aternos.me',
-    port: 12345,
+    port: 59439,
     username: 'SharkSMPBoT',
     version: '1.21.4',
     auth: 'offline'
