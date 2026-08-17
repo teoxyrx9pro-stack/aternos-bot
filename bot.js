@@ -8,7 +8,7 @@ function createBot() {
     version: '1.21.4',
     auth: 'offline'
   });
-
+  
   bot.on('spawn', () => {
     console.log('Bot je uspješno ušao na server!');
 
