@@ -5,7 +5,7 @@ function createBot() {
     host: 'MCSharkSMP.aternos.me',
     port: 59439,
     username: 'SharkSMPBoT',
-    version: '1.21.4',
+    version: '1.21.5',
     auth: 'offline'
   });
 
