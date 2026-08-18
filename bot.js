@@ -9,7 +9,6 @@ function createBot() {
     auth: 'offline'
   });
 
-
   bot.on('spawn', () => {
     console.log('Bot je uspješno ušao na server!');
 
