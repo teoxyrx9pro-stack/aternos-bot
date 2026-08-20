@@ -1,5 +1,4 @@
 const mineflayer = require('mineflayer');
-
 function createBot() {
   const bot = mineflayer.createBot({
     host: 'MCSharkSMP.aternos.me',
