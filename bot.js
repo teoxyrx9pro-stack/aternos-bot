@@ -1,9 +1,9 @@
 const mineflayer = require('mineflayer');
 function createBot() {
   const bot = mineflayer.createBot({
-    host: 'EclipsseSMP.aternos.me',
-    port: 25798,
-    username: 'EclipsseSMPBoT',
+    host: 'shiftsmp.falix.me',
+    port: 24731,
+    username: 'ShiftSMPBot',
     version: '1.21.4',
     auth: 'offline'
   });
