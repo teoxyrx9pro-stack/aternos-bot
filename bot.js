@@ -4,7 +4,6 @@ function createBot() {
     host: 'shiftsmp.falix.gg',
     port: 25565,
     username: 'ShiftSMPBot',
-    version: '1.21',
     auth: 'offline'
   });
 
