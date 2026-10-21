@@ -1,7 +1,7 @@
 const mineflayer = require('mineflayer');
 function createBot() {
   const bot = mineflayer.createBot({
-    host: 'shiftsmp.falix.me',
+    host: 'shiftsmp.falix.gg',
     port: 25565,
     username: 'ShiftSMPBot',
     version: '1.21',
